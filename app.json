@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "DailyQuotes",
+    "slug": "DailyQuotesApp",
+    "version": "7.0.0",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "notification": {
+      "icon": "./assets/icon.png",
+      "color": "#000000",
+      "androidMode": "collapse",
+      "iosDisplayInForeground": true
+    },
+    "android": {
+      "useNextNotificationsApi": true,
+      "versionCode": 7,
+      "package": "com.developper.mobile.it.DailyQuotesApp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "ef1ccc98-99ad-4010-9f59-c2936b6bb111"
+      }
+    },
+    "owner": "developper.mobile.it"
+  },
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-5190092512253381~6781542524"
+  }
+}
