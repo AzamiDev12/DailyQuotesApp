@@ -17,7 +17,7 @@
 - **Framework** : React Native , Expo
 - **Langage** : JavaScript / TypeScript
 - **Navigation** : React Navigation
-- **API de citations** : [Quotable](https://api.quotable.io), [ZenQuotes](https://zenquotes.io), ou base locale
+- **Base de citations** : base locale en json
 
 ---
 
